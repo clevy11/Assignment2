@@ -1,16 +1,12 @@
-# design
+NAME: BUNTU Lev Caleb
+ID: 25250
 
-A new Flutter project.
 
-## Getting Started
+and the code they are lib folder and the main class is main.dart
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this Create a tab-based navigation with multiple screens accessible through tabs. (SignIn, SignUp and Calculator) 
+       ▻ Design tab icons and labels, and handle navigation between different tabs.
+       ▻ Customize the appearance of active and inactive tabs.
+▰2. Create a navigation drawer with a hamburger menu icon and a slide-out animation.
+       ▻ Design menu items and handle navigation to different screens.
+       ▻Customize the appearance of the drawer, such as adding icons or styling.
